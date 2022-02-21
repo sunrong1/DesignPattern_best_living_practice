@@ -1,0 +1,17 @@
+.DS_Store
+.browse.VC.db
+vscode-chrome-debug.txt
+npm-debug.log
+*.vsix
+.vs
+
+lib/
+node_modules/
+/out/
+typings/
+testapp/.vscode/chrome
+testapp/**/out/
+test-results.xml
+bin
+obj
+logs
