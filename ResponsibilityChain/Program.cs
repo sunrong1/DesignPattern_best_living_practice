@@ -1,14 +1,15 @@
-﻿/// <summary>
+﻿using ResponsibilityChain;
+using ResponsibilityChain.task_after;
+using ResponsibilityChain.task_before;
+
+/// <summary>
+/// 场景：
 /// 处理请假、加薪的请求
 /// 
 /// 对象元素：PL，LM，CEO
 /// 动作对象:处理员工的请假、加薪请求,当前人没有权限的，需要一级级的审批
-/// 变化控制：处理对象顺序可能变化，请求种类有可能扩展
+/// 对象变化：处理对象顺序可能变化，请求种类有可能扩展
 /// </summary>
-using ResponsibilityChain;
-using ResponsibilityChain.task_after;
-using ResponsibilityChain.task_before;
-
 class Program
 {
     /// <summary>
