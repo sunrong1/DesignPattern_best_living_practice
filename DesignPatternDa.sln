@@ -5,27 +5,31 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResponsibilityChain", "ResponsibilityChain\ResponsibilityChain.csproj", "{EF3600D0-B16E-48F5-9944-0C5E90C69F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "InterpreterPattern\InterpreterPattern.csproj", "{9096A412-D3FB-4142-ADDC-4D9EDCFA0ABB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpreterPattern", "InterpreterPattern\InterpreterPattern.csproj", "{9096A412-D3FB-4142-ADDC-4D9EDCFA0ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{6B2F4A6F-925D-42CD-97A4-00A9B583EA82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.SingletonPattern", "SingletonPattern\1.SingletonPattern.csproj", "{6B2F4A6F-925D-42CD-97A4-00A9B583EA82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{F17399FF-72AD-4963-B5C8-5E208C05B850}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.FactoryPattern", "FactoryPattern\1.FactoryPattern.csproj", "{F17399FF-72AD-4963-B5C8-5E208C05B850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{D84DEFDB-80B3-4F73-A3B3-88DA4EBAE9D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{D84DEFDB-80B3-4F73-A3B3-88DA4EBAE9D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{0A460B5A-C198-473D-B975-2422F9A93DE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{0A460B5A-C198-473D-B975-2422F9A93DE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{63FA7C5C-77C5-4816-A4D1-B25364D516C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{63FA7C5C-77C5-4816-A4D1-B25364D516C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "MediatorPattern\MediatorPattern.csproj", "{3B5E1F75-CF70-454D-9D02-7C143D3336B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatorPattern", "MediatorPattern\MediatorPattern.csproj", "{3B5E1F75-CF70-454D-9D02-7C143D3336B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{2FB6F365-766D-4C1F-88F7-6DB66BC160B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{2FB6F365-766D-4C1F-88F7-6DB66BC160B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{46945650-FB54-4CC9-9D98-C63080F8AB2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{46945650-FB54-4CC9-9D98-C63080F8AB2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{BFE6832E-A825-4440-90FD-922F23178F80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{BFE6832E-A825-4440-90FD-922F23178F80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{5500D973-7012-437C-9237-5FC38AB4CE2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.PrototypePattern", "Prototype\1.PrototypePattern.csproj", "{5500D973-7012-437C-9237-5FC38AB4CE2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.BuilderPattern", "BuilderPattern\1.BuilderPattern.csproj", "{46502034-708B-4B66-B868-1F1901856C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{B66E9525-72F5-4030-8D20-79248925F0FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{5500D973-7012-437C-9237-5FC38AB4CE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5500D973-7012-437C-9237-5FC38AB4CE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5500D973-7012-437C-9237-5FC38AB4CE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46502034-708B-4B66-B868-1F1901856C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46502034-708B-4B66-B868-1F1901856C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46502034-708B-4B66-B868-1F1901856C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46502034-708B-4B66-B868-1F1901856C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66E9525-72F5-4030-8D20-79248925F0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66E9525-72F5-4030-8D20-79248925F0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66E9525-72F5-4030-8D20-79248925F0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66E9525-72F5-4030-8D20-79248925F0FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
