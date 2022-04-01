@@ -1,5 +1,11 @@
 ﻿using SingletonPattern;
 
+/// <summary>
+/// 单例模式
+/// 对象：单个对象
+/// 行为：对象的创建
+/// 变化：只能创建单个
+/// </summary>
 class Program
 {
     /// <summary>
