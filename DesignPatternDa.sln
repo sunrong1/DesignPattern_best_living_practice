@@ -27,9 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.PrototypePattern", "Prototype\1.PrototypePattern.csproj", "{5500D973-7012-437C-9237-5FC38AB4CE2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.BuilderPattern", "BuilderPattern\1.BuilderPattern.csproj", "{46502034-708B-4B66-B868-1F1901856C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.BuilderPattern", "BuilderPattern\1.BuilderPattern.csproj", "{46502034-708B-4B66-B868-1F1901856C00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{B66E9525-72F5-4030-8D20-79248925F0FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{B66E9525-72F5-4030-8D20-79248925F0FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{A8466092-B64D-45EC-9A0E-4701D68BC687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{BD52D6A0-158E-47AA-84C7-BDF5A565E763}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{B66E9525-72F5-4030-8D20-79248925F0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B66E9525-72F5-4030-8D20-79248925F0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B66E9525-72F5-4030-8D20-79248925F0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8466092-B64D-45EC-9A0E-4701D68BC687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8466092-B64D-45EC-9A0E-4701D68BC687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8466092-B64D-45EC-9A0E-4701D68BC687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8466092-B64D-45EC-9A0E-4701D68BC687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD52D6A0-158E-47AA-84C7-BDF5A565E763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD52D6A0-158E-47AA-84C7-BDF5A565E763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD52D6A0-158E-47AA-84C7-BDF5A565E763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD52D6A0-158E-47AA-84C7-BDF5A565E763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
